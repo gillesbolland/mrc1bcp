@@ -34,3 +34,6 @@ config.json
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Warp AI configuration
+WARP.md
