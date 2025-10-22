@@ -1,10 +1,10 @@
-# MRC1BCP - Vintage Camcorder Processing Tool
+# MRC1BCP - HVR-MRC1 Toolbox
 
-**"Mrc1 beaucoup!"** - A comprehensive Swift CLI application for processing vintage camcorder footage from Sony HVR-MRC1 memory recording units.
+**"Mrc1 beaucoup!"** - A comprehensive CLI application for processing footage from Sony HVR-MRC1 memory recording units.
 
 ## Purpose
 
-Designed to streamline the workflow of importing, optimizing, and archiving DV/HDV footage from Sony HVR-MRC1 for use in Final Cut Pro.
+Designed to streamline the workflow of importing, optimizing, and archiving DV/HDV footage from Sony HVR-MRC1 to Final Cut Pro.
 
 ## Features
 
